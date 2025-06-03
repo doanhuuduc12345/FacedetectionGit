@@ -11,8 +11,7 @@ Python face detection with name of the person and training of the dataset to rec
   - run the file, following output will be displayed on the screen.<br>
 </ol>
 
-# YouTube Video
-Link : <a href="https://www.youtube.com/watch?v=Id-jWnmqPoE">https://www.youtube.com/watch?v=Id-jWnmqPoE</a>
+
 
 
 
